@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'HG明朝B';
+    src: url('/path/to/your/font/HGMinB.ttf') format('truetype');
+}
+
+body {
+    font-family: 'HG明朝B', serif;
+}

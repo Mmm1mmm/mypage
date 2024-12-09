@@ -55,6 +55,7 @@ const config: Config = {
 			},
 			fontFamily: {
 				sans: ["'Cantarell'", "'Noto Sans JP Variable'", "sans-serif"]
+
 			}
 		}
 	},

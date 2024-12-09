@@ -1,0 +1,16 @@
+.til {
+    transform: rotate(-20deg); /* 文字を45度回転させる */
+    display: inline-block; /* 回転を適用するためにインラインブロックに設定 */
+}
+
+.grad{
+    font-size: 2em;
+    font-weight: blod;
+    background: linear-gradient(360deg, #ff0080, #8702EC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.vertical {
+        writing-mode: vertical-rl; /* 縦書きに設定 */
+        text-orientation: upright; /* 文字の向きを正しく表示 */
+    }
